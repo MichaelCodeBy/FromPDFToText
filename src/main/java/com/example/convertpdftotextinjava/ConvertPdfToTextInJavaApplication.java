@@ -26,7 +26,7 @@ public class ConvertPdfToTextInJavaApplication {
 
 
         // Load the source PDF file that is to be converted to Text file
-        Document convertPDFDocumentToText = new Document("input.pdf");
+        Document convertPDFDocumentToText = new Document("Head_First.pdf");
 
 
         // Instantiate a TextAbsorber class object for converting PDF to Text
